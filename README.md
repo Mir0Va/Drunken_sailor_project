@@ -1,6 +1,6 @@
 in terminal to compile the program input the following:
 
-cd src/
+cd src/ <br />
 make
 
 if .mod files are not found you have to compile each program (except drunkenSailor.f90):
